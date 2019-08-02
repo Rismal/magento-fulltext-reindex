@@ -11,12 +11,6 @@
         {"name":"paales", "homepage": "https://github.com/paales" },
         {"name":"Rismal", "homepage": "https://github.com/Rismal" }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://git@github.com:Rismal/magento-fulltext-reindex.git"
-        }
-    ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },

@@ -1,9 +1,9 @@
 {
-    "name": "magendooro/magento-fulltext-reindex",
-    "description": "Magento CatalogSearch Fulltext reindex into temporary table, solve http://magento.stackexchange.com/questions/726/mysql-keeps-hanging-queries-stuck-on-seding-data",
+    "name": "rismal/magento-fulltext-reindex",
+    "description": "fork of magendooro/magento-fulltext-reindex: Magento CatalogSearch Fulltext reindex into temporary table, solve http://magento.stackexchange.com/questions/726/mysql-keeps-hanging-queries-stuck-on-seding-data",
     "type": "magento-module",
     "license": "CC BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "homepage": "https://github.com/magendooro/magento-fulltext-reindex",
+    "homepage": "https://github.com/rismal/magento-fulltext-reindex",
     "authors":[
         {"name":"carco", "homepage": "https://github.com/carco" },
         {"name":"florinel-chis", "homepage": "https://github.com/florinel-chis" },
